@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 1, Errors: 0, Skipped: 7, Time elapsed: 7.358 s <<< FAILURE! - in TestSuite
+setup(com.qa.tests.HomePageTest)  Time elapsed: 6.699 s  <<< FAILURE!
+java.lang.NullPointerException
+
